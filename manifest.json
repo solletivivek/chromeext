@@ -1,0 +1,17 @@
+{
+    "name":"Dad jokes",
+    "version":"0.0.1",
+    "description":"A simple dad joke command",
+    "manifest_version":3,
+    "action":{
+        "default_popup":"popup.html",
+        "default_icon":"icon.png"
+    },
+   
+    "icons":{
+        "128":"icon.png"
+    },
+    "permissions":[
+        "activeTab"
+    ]
+}

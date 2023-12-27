@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+    width: 300px;
+}
+
+#jokeElement {
+    font-size: 24px;
+    line-height: 1.5;
+    padding: 20px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+/* Add any additional styles as needed */
